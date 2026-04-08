@@ -1,2 +1,2 @@
-# Linear-Regression
-Predict the house price using the dependant variable (sqft) using the Linear Regression
+# Machine Learning
+All MAchine learning Algorithms( Supervised and Unsupervised learning)
